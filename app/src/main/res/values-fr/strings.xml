@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="input_temperature_unit">Saisie de l\'unité de la température :</string>
+    <string name="input_temperature">Saisie de la température :</string>
+    <string name="convert">Convertir</string>
+    <string name="resultLabel">Résultat :</string>
+    <string name="result">Résultat</string>
+</resources>

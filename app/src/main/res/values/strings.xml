@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">UP_ConvTemp</string>
+    <string name="input_temperature_unit">Input Temperature unit :</string>
+    <string name="celsius_c" translatable="false">Celsius (°C)</string>
+    <string name="input_temperature">Input Temperature :</string>
+    <string name="convert">Convert</string>
+    <string name="resultLabel">Result :</string>
+    <string name="result">Result</string>
+    <string name="fahrenheit_f" translatable="false">Fahrenheit (°F)</string>
+</resources>
