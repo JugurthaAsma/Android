@@ -5,4 +5,5 @@
     <string name="convert">Convertir</string>
     <string name="resultLabel">Résultat :</string>
     <string name="result">Résultat</string>
+    <string name="ERROR_NAN_INPUT">Erreur, la saisie n\'est pas un nombre</string>
 </resources>

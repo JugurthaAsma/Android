@@ -7,4 +7,5 @@
     <string name="resultLabel">Result :</string>
     <string name="result">Result</string>
     <string name="fahrenheit_f" translatable="false">Fahrenheit (°F)</string>
+    <string name="ERROR_NAN_INPUT">Error, input is not a number</string>
 </resources>
