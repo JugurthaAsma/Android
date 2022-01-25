@@ -6,4 +6,5 @@
     <string name="resultLabel">Résultat :</string>
     <string name="result">Résultat</string>
     <string name="ERROR_NAN_INPUT">Erreur, la saisie n\'est pas un nombre</string>
+    <string name="switch_auto_convert">Conversion auto.</string>
 </resources>
